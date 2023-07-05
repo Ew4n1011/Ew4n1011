@@ -1,4 +1,46 @@
-### Hi there 👋
+<h1 align="center">Hey there 👋</h1>
+
+<p align='center'>
+  <a href="https://twitter.com/ewan1011">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/453966433379024896">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://t.me/ewan1011">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/Electronic-Moment-32">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a> 
+</p>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats-ew4n1011.vercel.app/api?username=ew4n1011&show_icons=true&count_private=true&theme=blueberry" width="350"/>
+  <img align="center" src="https://github-readme-stats-ew4n1011.vercel.app/api/top-langs/?username=ew4n1011&theme=blueberry&layout=compact&langs_count=4" />
+</p>
+
+<h3 align="center">My Skills:</h3>
+<p align="center">  
+  <!--HTML-->
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
+  <!--CSS-->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
+  <!--JavaScript-->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;
+  <!--Shell-->
+  <a href="https://github.com/Ew4n1011"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+</p>
+
+<h3 align='center'>OS 💻:</h3>
+<p align='center'>
+  <a href="https://github.com/Ew4n1011"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></a>
+  <a href="https://github.com/Ew4n1011"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a>
+</p>
+
+<p align='center'>
+<a href="https://github.com/Ew4n1011/aurto-docker"><img align="center" src="https://github-readme-stats-ew4n1011.vercel.app/api/pin/?username=ew4n1011&repo=aurto-docker&theme=blueberry" /></a>&nbsp; 
+</p>
 
 <!--
 **Ew4n1011/Ew4n1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
