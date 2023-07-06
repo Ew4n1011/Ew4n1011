@@ -16,8 +16,8 @@
 </p>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats-ew4n1011.vercel.app/api?username=ew4n1011&show_icons=true&count_private=true&theme=blueberry" width="350"/>
-  <img align="center" src="https://github-readme-stats-ew4n1011.vercel.app/api/top-langs/?username=ew4n1011&theme=blueberry&layout=compact&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ew4n1011&show_icons=true&count_private=true&theme=blueberry" width="350"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ew4n1011&theme=blueberry&layout=compact&langs_count=4" />
 </p>
 
 <h3 align="center">My Skills:</h3>
@@ -39,7 +39,7 @@
 </p>
 
 <p align='center'>
-<a href="https://github.com/Ew4n1011/aurto-docker"><img align="center" src="https://github-readme-stats-ew4n1011.vercel.app/api/pin/?username=ew4n1011&repo=aurto-docker&theme=blueberry" /></a>&nbsp; 
+<a href="https://github.com/Ew4n1011/aurto-docker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ew4n1011&repo=aurto-docker&theme=blueberry" /></a>&nbsp; 
 </p>
 
 <!--
