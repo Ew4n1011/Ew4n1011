@@ -38,10 +38,6 @@
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a>
 </p>
 
-<p align='center'>
-<a href="https://github.com/Ew4n1011/aurto-docker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ew4n1011&repo=aurto-docker&theme=blueberry" /></a>&nbsp; 
-</p>
-
 <!--
 **Ew4n1011/Ew4n1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
