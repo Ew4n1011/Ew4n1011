@@ -39,7 +39,7 @@
 </p>
 
 <p align='center'>
-<a href="https://github.com/Ew4n1011/webdav-docker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ew4n1011&repo=webdav-docker&theme=blueberry" /></a>&nbsp; 
+<a href="https://github.com/Ew4n1011/dotfiles"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ew4n1011&repo=dotfiles&theme=blueberry" /></a>&nbsp; 
 </p>
 
 <!--
