@@ -36,7 +36,6 @@
 <p align='center'>
   <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></a>
   <a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a>
-  <a href="https://www.debian.org" target="_blank"><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
 </p>
 
 <p align='center'>
