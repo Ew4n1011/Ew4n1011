@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align='center'>
-  <a href="https://twitter.com/ewan1011">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/ewan1011">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/453966433379024896">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
@@ -40,7 +40,8 @@
 </p>
 
 <p align='center'>
-<a href="https://github.com/Hyprlux/dotfiles"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ew4n1011&repo=dotfiles&theme=blueberry" /></a>&nbsp;
+<a href="https://github.com/Ew4n1011/Hyprlux"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ew4n1011&repo=Hyprlux&theme=blueberry" /></a>&nbsp;
+<a href="https://github.com/Ew4n1011/hyprlux-themes"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ew4n1011&repo=hyprlux-themes&theme=blueberry" /></a>&nbsp;
 </p>
 
 <!--
