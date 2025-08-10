@@ -34,13 +34,12 @@
 
 <h3 align='center'>OS 💻:</h3>
 <p align='center'>
-  <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></a>
   <a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a>
+  <a href="https://www.microsoft.com/en-us/software-download/windows11" target="_blank"><img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></a>
 </p>
 
 <p align='center'>
-<a href="https://github.com/Ew4n1011/Hyprlux"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ew4n1011&repo=Hyprlux&theme=blueberry" /></a>&nbsp;
-<a href="https://github.com/Ew4n1011/hyprlux-themes"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ew4n1011&repo=hyprlux-themes&theme=blueberry" /></a>&nbsp;
+<a href="https://github.com/Ew4n1011/dots"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ew4n1011&repo=dots&theme=blueberry" /></a>&nbsp;
 </p>
 
 <!--
